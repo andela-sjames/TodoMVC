@@ -1,0 +1,22 @@
+{
+  "name": "todomvc",
+  "version": "1.0.0",
+  "description": "a simple todo app using typescript and reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-sjames/TodoMVC.git"
+  },
+  "keywords": [
+    "todoapp"
+  ],
+  "author": "samuel james",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-sjames/TodoMVC/issues"
+  },
+  "homepage": "https://github.com/andela-sjames/TodoMVC#readme"
+}
