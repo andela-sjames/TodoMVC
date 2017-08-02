@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/andela-sjames/TodoMVC/issues"
   },
-  "homepage": "https://github.com/andela-sjames/TodoMVC#readme"
+  "homepage": "https://github.com/andela-sjames/TodoMVC#readme",
+  "dependencies": {
+    "typescript": "^2.4.2",
+    "typings": "^2.1.1",
+    "director": "^1.2.0",
+    "react": "^0.13.3",
+    "todomvc-app-css": "^2.0.0"
+  }
 }
