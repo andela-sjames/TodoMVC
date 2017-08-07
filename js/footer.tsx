@@ -1,9 +1,6 @@
 /// <reference path="../typings/modules/react/index.d.ts" />
 /// <reference path="./interfaces.d.ts"/>
 
-import * as React from "react";
-import * as { Utils } from "./utils.ts";
-
 namespace app.components {
 
   export class TodoFooter extends React.Component<ITodoFooterProps, {}> {

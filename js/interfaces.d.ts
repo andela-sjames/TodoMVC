@@ -35,14 +35,14 @@ interface ITodoModel {
   key : any;
   todos : Array<ITodo>;
   onChanges : Array<any>;
-  subscribe(onChange);
-  inform();
-  addTodo(title : string);
-  toggleAll(checked);
-  toggle(todoToToggle);
-  destroy(todo);
-  save(todoToSave, text);
-  clearCompleted();
+  subscribe(onChange:any) :any;
+  inform(): any;
+  addTodo(title : string) :any;
+  toggleAll(checked:any): any;
+  toggle(todoToToggle: any): any;
+  destroy(todo: any): any;
+  save(todoToSaveany: any, text: any): any;
+  clearCompleted():any;
 }
 
 // Defines the interface of the properties of the App component

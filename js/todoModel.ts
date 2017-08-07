@@ -1,4 +1,4 @@
-/// <reference path="../typings/index.d.ts" />
+/// <reference path="../typings/modules/react/index.d.ts" />
 /// <reference path="./interfaces.d.ts"/>
 
 
