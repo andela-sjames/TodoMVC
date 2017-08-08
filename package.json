@@ -20,10 +20,18 @@
   },
   "homepage": "https://github.com/andela-sjames/TodoMVC#readme",
   "dependencies": {
-    "typescript": "^2.4.2",
-    "typings": "^2.1.1",
+    "@types/react": "^16.0.1",
+    "@types/react-dom": "^15.5.2",
     "director": "^1.2.0",
     "react": "^0.13.3",
-    "todomvc-app-css": "^2.0.0"
+    "react-dom": "^15.6.1",
+    "todomvc-app-css": "^2.0.0",
+    "typescript": "^2.4.2",
+    "typings": "^2.1.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.2.2",
+    "source-map-loader": "^0.2.1",
+    "typescript": "^2.4.2"
   }
 }
